@@ -1,0 +1,63 @@
+[
+    {
+      "college_id": "63a123456789abcd123456789",
+      "course_name": "Computer Science",
+      "course_duration": "4 years",
+      "course_fee": 120000
+    },
+    {
+      "college_id": "63a123456789abcd123456789",
+      "course_name": "Mechanical Engineering",
+      "course_duration": "4 years",
+      "course_fee": 110000
+    },
+    {
+      "college_id": "63a123456789abcd123456780",
+      "course_name": "Business Administration",
+      "course_duration": "3 years",
+      "course_fee": 90000
+    },
+    {
+      "college_id": "63a123456789abcd123456781",
+      "course_name": "Civil Engineering",
+      "course_duration": "4 years",
+      "course_fee": 100000
+    },
+    {
+      "college_id": "63a123456789abcd123456782",
+      "course_name": "Electrical Engineering",
+      "course_duration": "4 years",
+      "course_fee": 95000
+    },
+    {
+      "college_id": "63a123456789abcd123456783",
+      "course_name": "Data Science",
+      "course_duration": "2 years",
+      "course_fee": 150000
+    },
+    {
+      "college_id": "63a123456789abcd123456784",
+      "course_name": "Biotechnology",
+      "course_duration": "4 years",
+      "course_fee": 85000
+    },
+    {
+      "college_id": "63a123456789abcd123456785",
+      "course_name": "Law",
+      "course_duration": "3 years",
+      "course_fee": 95000
+    },
+    {
+      "college_id": "63a123456789abcd123456786",
+      "course_name": "Architecture",
+      "course_duration": "5 years",
+      "course_fee": 125000
+    },
+    {
+      "college_id": "63a123456789abcd123456787",
+      "course_name": "Medicine",
+      "course_duration": "5.5 years",
+      "course_fee": 300000
+    }
+  ]
+  

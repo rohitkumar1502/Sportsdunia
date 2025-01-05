@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Tech Valley University",
+      "score": 950,
+      "city_id": "63a123456789abcd123456789",
+      "state_id": "63b123456789abcd123456789"
+    },
+    {
+      "name": "Greenfield College",
+      "score": 910,
+      "city_id": "63a123456789abcd123456780",
+      "state_id": "63b123456789abcd123456780"
+    },
+    {
+      "name": "Skyline Institute of Technology",
+      "score": 870,
+      "city_id": "63a123456789abcd123456781",
+      "state_id": "63b123456789abcd123456781"
+    },
+    {
+      "name": "Mountainside Academy",
+      "score": 880,
+      "city_id": "63a123456789abcd123456782",
+      "state_id": "63b123456789abcd123456782"
+    },
+    {
+      "name": "Riverbank Engineering College",
+      "score": 830,
+      "city_id": "63a123456789abcd123456783",
+      "state_id": "63b123456789abcd123456783"
+    },
+    {
+      "name": "Silver Oak University",
+      "score": 920,
+      "city_id": "63a123456789abcd123456784",
+      "state_id": "63b123456789abcd123456784"
+    },
+    {
+      "name": "Lakeside Polytechnic",
+      "score": 750,
+      "city_id": "63a123456789abcd123456785",
+      "state_id": "63b123456789abcd123456785"
+    },
+    {
+      "name": "Evergreen Business School",
+      "score": 890,
+      "city_id": "63a123456789abcd123456786",
+      "state_id": "63b123456789abcd123456786"
+    },
+    {
+      "name": "Pinnacle School of Arts",
+      "score": 770,
+      "city_id": "63a123456789abcd123456787",
+      "state_id": "63b123456789abcd123456787"
+    },
+    {
+      "name": "Summit College of Design",
+      "score": 850,
+      "city_id": "63a123456789abcd123456788",
+      "state_id": "63b123456789abcd123456788"
+    }
+  ]
+  

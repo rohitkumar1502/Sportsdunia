@@ -1,0 +1,83 @@
+[
+    {
+      "college_id": "63a123456789abcd123456789",
+      "year": 2023,
+      "highest_placement": 3200000,
+      "average_placement": 1200000,
+      "median_placement": 1100000,
+      "placement_rate": 90
+    },
+    {
+      "college_id": "63a123456789abcd123456789",
+      "year": 2022,
+      "highest_placement": 3000000,
+      "average_placement": 1150000,
+      "median_placement": 1050000,
+      "placement_rate": 88
+    },
+    {
+      "college_id": "63a123456789abcd123456780",
+      "year": 2023,
+      "highest_placement": 2500000,
+      "average_placement": 1000000,
+      "median_placement": 950000,
+      "placement_rate": 85
+    },
+    {
+      "college_id": "63a123456789abcd123456781",
+      "year": 2023,
+      "highest_placement": 2000000,
+      "average_placement": 950000,
+      "median_placement": 900000,
+      "placement_rate": 80
+    },
+    {
+      "college_id": "63a123456789abcd123456782",
+      "year": 2023,
+      "highest_placement": 2700000,
+      "average_placement": 1100000,
+      "median_placement": 1050000,
+      "placement_rate": 87
+    },
+    {
+      "college_id": "63a123456789abcd123456783",
+      "year": 2022,
+      "highest_placement": 2600000,
+      "average_placement": 1070000,
+      "median_placement": 1020000,
+      "placement_rate": 84
+    },
+    {
+      "college_id": "63a123456789abcd123456784",
+      "year": 2023,
+      "highest_placement": 3100000,
+      "average_placement": 1250000,
+      "median_placement": 1200000,
+      "placement_rate": 92
+    },
+    {
+      "college_id": "63a123456789abcd123456785",
+      "year": 2022,
+      "highest_placement": 2200000,
+      "average_placement": 950000,
+      "median_placement": 920000,
+      "placement_rate": 78
+    },
+    {
+      "college_id": "63a123456789abcd123456786",
+      "year": 2023,
+      "highest_placement": 2800000,
+      "average_placement": 1180000,
+      "median_placement": 1120000,
+      "placement_rate": 89
+    },
+    {
+      "college_id": "63a123456789abcd123456787",
+      "year": 2023,
+      "highest_placement": 2950000,
+      "average_placement": 1230000,
+      "median_placement": 1190000,
+      "placement_rate": 91
+    }
+  ]
+  
